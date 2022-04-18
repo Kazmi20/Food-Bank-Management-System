@@ -1,3 +1,4 @@
+package edu.ucalgary.ensf409;
 import java.util.ArrayList;
 
 public class Hamper {
